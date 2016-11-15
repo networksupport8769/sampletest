@@ -5,8 +5,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-12 part1">
 							<a href=""><img src="images/logo-footer.png" alt="Logo"></a>
-							<p>Welcome To The Force Of all the background verifications companies in India and their teams of
-part timers </p>
+							<p>Welcome To advicesync </p>
 							<p><i class="fa fa-phone"></i>&nbsp;&nbsp; (1800) 102 6149 </p>
 							<p>info@fourthforce.in</p>
 							<ul class="p0">
